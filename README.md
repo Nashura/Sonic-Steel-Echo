@@ -51,3 +51,5 @@
 
 ## Команда
 Состав команды, распределение ролей и правила работы описаны в [docs/team.md](docs/team.md).
+
+[![Logotip.png](https://i.postimg.cc/cHrqshv0/Logotip.png)](https://postimg.cc/KkSpfn7H)
