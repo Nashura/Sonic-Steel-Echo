@@ -1,6 +1,8 @@
 # Sonic: Steel Echo
 **Sonic: Steel Echo** – учебная ролевая игра с пошаговыми боями и сюжетными катсценами, созданными в Adobe Animate.
 
+[![Logotip.png](https://i.postimg.cc/cHrqshv0/Logotip.png)](https://postimg.cc/KkSpfn7H)
+
 ## Сюжет
 Соник замечает с горного хребта базу доктора Эггмана. Шэдоу куда-то пропал, и Соник решает проверить базу. Во время прыжка с обрыва неизвестный противник перехватывает его в воздухе и отбрасывает назад. Когда Соник поднимается, перед ним появляется Меха-Соник – его механический двойник.
 
@@ -52,4 +54,4 @@
 ## Команда
 Состав команды, распределение ролей и правила работы описаны в [docs/team.md](docs/team.md).
 
-[![Logotip.png](https://i.postimg.cc/cHrqshv0/Logotip.png)](https://postimg.cc/KkSpfn7H)
+[![Logo-komandy.png](https://i.postimg.cc/050GkvqG/Logo-komandy.png)](https://postimg.cc/Z00vH1n0)
